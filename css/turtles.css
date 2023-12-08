@@ -1,0 +1,41 @@
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: xx-large;
+  
+    
+}
+body {
+    background-color: rgb(162, 161, 161);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.move {
+    float: right;
+}
+a {
+    color: forestgreen;
+    text-decoration: bold;
+    font-size: larger;
+}
+
+.about {
+    color: chartreuse;
+    text-decoration: bold;
+    font-size: larger;
+}
+
+.location {
+    color: blue;
+    text-decoration: underline;
+    font-size: medium;
+}
+
+.diet {
+    color: red;
+    text-decoration: wavy;
+    font-size: small;
+}
+
